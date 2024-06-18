@@ -46,7 +46,7 @@
 .cover {
   padding: 165px 50px 50px 50px;
   background-image: url("../images/cover.jpg");
-  height: 757px;
+  min-height: 757px;
   background-repeat: no-repeat;
   background-size: 125% 100%;
   background-position: 51% 100%;
